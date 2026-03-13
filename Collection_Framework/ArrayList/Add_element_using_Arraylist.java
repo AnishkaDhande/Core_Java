@@ -1,4 +1,4 @@
-//write a program to add element at given index 
+//write a program to add element at given index  in array //we convert Array to ArrayList
 import java.util.Scanner;
 import java.util.ArrayList;
 public class Add_element_using_Arraylist {
