@@ -1,4 +1,4 @@
-//write a program to delete value from particular index
+//write a program to delete value from particular index in Array //we covert Array to ArrayList
 
 import java.util.Scanner;
 import java.util.ArrayList;
